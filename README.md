@@ -1,4 +1,4 @@
-# azure-redis-cache-simple-adapter
+# redis-cache-simple-adapter
 
 
 ### Envs
