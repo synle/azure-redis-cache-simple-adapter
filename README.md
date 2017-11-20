@@ -9,13 +9,13 @@ export CACHE_PASSWORD='YOUR_CACHE_PASSWORD;
 
 ### Install it
 ```
-npm install --save git+https://github.com/synle/azure-redis-cache-simple-adapter.git
+npm install --save git+https://github.com/synle/redis-cache-simple-adapter.git
 ```
 
 
 ### Require it
 ```
-const redisUtil = require('azure-redis-cache-simple-adapter');
+const redisUtil = require('redis-cache-simple-adapter');
 ```
 
 
